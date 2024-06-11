@@ -3,20 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\viewmodels\\category\\categorycoursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\viewmodels\\category\\categorycoursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\viewmodels\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\viewmodels\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\viewmodels\\category\\categoryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\viewmodels\\category\\categoryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\models\\courseimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\models\\courseimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\views\\category\\created.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\views\\category\\created.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\viewmodels\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\viewmodels\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\controller\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\controller\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\controller\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\controller\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\viewmodels\\course\\courseadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\viewmodels\\course\\courseadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\viewmodels\\course\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\viewmodels\\course\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|c:\\users\\fa507xv\\desktop\\sadasdasd\\miniprojectmvc\\miniprojectmvc\\helpers\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476A0758-1D1F-4E25-A8A3-6D2589142124}|MiniProjectMVC\\MiniProjectMVC.csproj|solutionrelative:miniprojectmvc\\helpers\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +98,279 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SliderCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Slider\\SliderCreateVM.cs",
-              "RelativeDocumentMoniker": "MiniProjectMVC\\ViewModels\\Slider\\SliderCreateVM.cs",
-              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Slider\\SliderCreateVM.cs",
-              "RelativeToolTip": "MiniProjectMVC\\ViewModels\\Slider\\SliderCreateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "CategoryCourseVM.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Category\\CategoryCourseVM.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\ViewModels\\Category\\CategoryCourseVM.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Category\\CategoryCourseVM.cs",
+              "RelativeToolTip": "MiniProjectMVC\\ViewModels\\Category\\CategoryCourseVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T17:31:43.825Z",
+              "WhenOpened": "2024-06-10T13:42:35.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "Created.cshtml",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Category\\Created.cshtml",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Views\\Category\\Created.cshtml",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Category\\Created.cshtml",
+              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Views\\Category\\Created.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:23:10.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAnwOAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:08:11.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T17:32:12.07Z",
+              "WhenOpened": "2024-06-10T13:08:05.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:01:00.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Controller\\SliderController.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Controller\\SliderController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Controller\\SliderController.cs",
+              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Controller\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:59:46.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:58:16.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Course\\CourseAdminVM.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\ViewModels\\Course\\CourseAdminVM.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Course\\CourseAdminVM.cs",
+              "RelativeToolTip": "MiniProjectMVC\\ViewModels\\Course\\CourseAdminVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:56:07.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "MiniProjectMVC\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:48:20.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Controller\\CourseController.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Controller\\CourseController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Controller\\CourseController.cs",
+              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Controller\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:40:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "RelativeToolTip": "MiniProjectMVC\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:20:16.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Services\\CategoryService.cs",
+              "RelativeToolTip": "MiniProjectMVC\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:17:52.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Category\\CategoryEditVM.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\ViewModels\\Category\\CategoryEditVM.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Category\\CategoryEditVM.cs",
+              "RelativeToolTip": "MiniProjectMVC\\ViewModels\\Category\\CategoryEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:16:30.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseImage.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Models\\CourseImage.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Models\\CourseImage.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Models\\CourseImage.cs",
+              "RelativeToolTip": "MiniProjectMVC\\Models\\CourseImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:11:04.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CourseCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Course\\CourseCreateVM.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\ViewModels\\Course\\CourseCreateVM.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\ViewModels\\Course\\CourseCreateVM.cs",
+              "RelativeToolTip": "MiniProjectMVC\\ViewModels\\Course\\CourseCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:05:29.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Helpers\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Helpers\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Helpers\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "MiniProjectMVC\\Helpers\\Extensions\\FileExtension.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:27:10.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Services\\CourseService.cs",
+              "RelativeToolTip": "MiniProjectMVC\\Services\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:57:07.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Services\\Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "MiniProjectMVC\\Services\\Interfaces\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:55:31.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:54:30.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:53:56.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T17:28:36.672Z",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Controller\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Controller\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Controller\\CategoryController.cs",
+              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Controller\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:53:18.526Z",
               "EditorCaption": ""
             },
             {
@@ -97,15 +403,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAMkAAAAAAAAAAAAAAPIAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T07:08:05.004Z",
+              "DocumentIndex": 17,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Controller\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MiniProjectMVC\\Areas\\Admin\\Controller\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\sadasdasd\\MiniProjectMVC\\MiniProjectMVC\\Areas\\Admin\\Controller\\DashboardController.cs",
+              "RelativeToolTip": "MiniProjectMVC\\Areas\\Admin\\Controller\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:52:00.824Z",
               "EditorCaption": ""
             }
           ]

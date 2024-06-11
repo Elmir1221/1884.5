@@ -1,0 +1,43 @@
+﻿@model CourseCreateVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="card">
+    <div class="card-body">
+        <form class="forms-sample" method="post" asp-action="Create" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="name">Teacher</label>
+                <input asp-for="Teacher" class="form-control" id="Teacher" placeholder="Teacher..">
+                <span asp-validation-for="Teacher" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="description">Description</label>
+                <input asp-for="Title" class="form-control" id="Title" placeholder="Title..">
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="price">Price</label>
+                <input asp-for="Price" type="number" step="any" class="form-control" id="price">
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <label for="images">Upload Images</label>
+                <input asp-for="Image" accept="image/*" class="form-control" id="images">
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input asp-for="Duration" class="form-control" id="Duration" placeholder="Duration..">
+                <span asp-validation-for="Duration" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-gradient-primary me-2">Submit</button>
+            <a class="btn btn-light" asp-action="Index">Cancel</a>
+        </form>
+    </div>
+</div>
+
+
+
+

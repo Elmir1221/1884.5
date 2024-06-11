@@ -13,6 +13,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<ISliderService, SliderService>();
 builder.Services.AddScoped<IInfoService, InfoService>();
 builder.Services.AddScoped<IAboutService, AboutService>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<ICourseService, CourseService>();
 
 
 var app = builder.Build();

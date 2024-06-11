@@ -17,6 +17,10 @@ namespace MiniProjectMVC.Areas.Admin
         {
             return View();
         }
+        public IActionResult Create()
+        {
+            return View();
+        }
 
         //public async Task<IActionResult> Index(int page = 1)
         //{

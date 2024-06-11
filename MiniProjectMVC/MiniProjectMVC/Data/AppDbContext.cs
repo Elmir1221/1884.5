@@ -9,6 +9,10 @@ namespace MiniProjectMVC.Data
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<Info> Infos { get; set; }
         public DbSet<About> Abouts{ get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Course> Courses { get; set; }
+
+
 
 
 
